@@ -8,11 +8,7 @@ const cardArray = [{
         Nome: "Someone",
         Cargo: "Monitor de pista",
     },
-    {
-        Image: "./images/snowborder.jpg",
-        Nome: "Someone",
-        Cargo: "Monitor de pista",
-    },
+   
 
 ];
 
