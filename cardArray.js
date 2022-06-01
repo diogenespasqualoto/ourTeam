@@ -4,7 +4,7 @@ const cardArray = [{
         Cargo: "Monitor de pista",
     },
     {
-        Image: "./images/snowborder.jpg",
+        Image: "./images/snowborder2.jpg",
         Nome: "Someone",
         Cargo: "Monitor de pista",
     },
