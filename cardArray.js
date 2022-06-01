@@ -1,10 +1,10 @@
 const cardArray = [{
-        Image: "./images/snowborder.jpg",
+        Image: "./images/snowborder2.jpg",
         Nome: "Someone",
         Cargo: "Monitor de pista",
     },
     {
-        Image: "./images/snowborder2.jpg",
+        Image: "./images/snowborder3.jpg",
         Nome: "Someone",
         Cargo: "Monitor de pista",
     },
