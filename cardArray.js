@@ -1,3 +1,4 @@
+// gera os cards
 const cardArray = [{
         Image: "./images/snowborder2.jpg",
         Nome: "Someone",
@@ -10,12 +11,29 @@ const cardArray = [{
         Cargo: "Monitor de pista",
         flagsImg: ["./images/PS.png", "./images/EUA2.png","./images/PS.png"]
     },
-    
-    
+    {
+        Image: "./images/snowborder2.jpg",
+        Nome: "Someone",
+        Cargo: "Monitor de pista",
+        flagsImg: ["./images/PS.png", "./images/EUA2.png","./images/PS.png"]
+    },
+    {
+        Image: "./images/snowborder2.jpg",
+        Nome: "Someone",
+        Cargo: "Monitor de pista",
+        flagsImg: ["./images/PS.png", "./images/EUA2.png","./images/PS.png"]
+    },
+    {
+        Image: "./images/snowborder2.jpg",
+        Nome: "Someone",
+        Cargo: "Monitor de pista",
+        flagsImg: ["./images/PS.png", "./images/EUA2.png","./images/PS.png"]
+    },
 
 
 ];
 
+// Funcão para criar os cards
 function listCard() {
     let list = document.getElementById("container-list")
     cardArray.forEach(res => {
