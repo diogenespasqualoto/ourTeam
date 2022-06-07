@@ -120,12 +120,12 @@ img {
 
 .flags {
     display: flex;
-    justify-content: space-evenly;
+    justify-content:center;
 }
 
 span img {
     height: auto;
-    width: 40px;
+    width: 30px;
 }
 
 footer {
