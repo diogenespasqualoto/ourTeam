@@ -1,4 +1,4 @@
-// gera os cards
+// gera os cards da div
 const cardArray = [{
         Image: "./images/snowborder2.jpg",
         Nome: "Someone",
