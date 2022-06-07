@@ -29,7 +29,7 @@ const cardArray = [{
         Cargo: "Monitor de pista",
         flagsImg: ["./images/PS.png", "./images/EUA2.png","./images/PS.png"]
     },
-   
+//    
 
 
 ];
