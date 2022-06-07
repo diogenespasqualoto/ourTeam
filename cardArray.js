@@ -2,13 +2,17 @@ const cardArray = [{
         Image: "./images/snowborder2.jpg",
         Nome: "Someone",
         Cargo: "Monitor de pista",
+        flagsImg: ["./images/PS.png", "./images/EUA2.png","./images/PS.png"]
     },
     {
-        Image: "./images/snowborder3.jpg",
+        Image: "./images/snowborder2.jpg",
         Nome: "Someone",
         Cargo: "Monitor de pista",
+        flagsImg: ["./images/PS.png", "./images/EUA2.png","./images/PS.png"]
     },
-   
+    
+    
+
 
 ];
 
@@ -21,6 +25,11 @@ function listCard() {
           <div class="imgBx"><img src="${res.Image}" alt=""></div>
           <div class="contentBx">
             <h3>${res.Nome}<br><span>${res.Cargo}</span></h3>
+            <div class="flags">
+            <span><img src="${res.flagsImg[0]}" alt=""></span>
+            <span><img src="${res.flagsImg[1]}" alt=""></span>
+            <span><img src="${res.flagsImg[2]}" alt=""></span>
+        </div>
           </div>
         </div>
     </div>`

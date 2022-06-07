@@ -112,3 +112,12 @@ img {
     font-weight: 300;
     text-transform: initial;
 }
+.flags{
+    display: flex;
+    justify-content:space-evenly;
+}
+
+span img{
+    height: auto;
+    width: 40px;
+}
