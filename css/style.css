@@ -129,7 +129,7 @@ img {
 
 .flags {
     display: flex;
-    justify-content:center;
+    justify-content:space-evenly;
 }
 
 span img {
