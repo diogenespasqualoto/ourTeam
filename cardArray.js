@@ -6,29 +6,14 @@ const cardArray = [{
         flagsImg: ["./images/PS.png", "./images/EUA2.png","./images/PS.png"]
     },
     {
-        Image: "./images/snowborder2.jpg",
+        Image: "./images/snowborder3.jpg",
         Nome: "Someone",
         Cargo: "Monitor de pista",
         flagsImg: ["./images/PS.png", "./images/EUA2.png","./images/PS.png"]
     },
-    {
-        Image: "./images/snowborder2.jpg",
-        Nome: "Someone",
-        Cargo: "Monitor de pista",
-        flagsImg: ["./images/PS.png", "./images/EUA2.png","./images/PS.png"]
-    },
-    {
-        Image: "./images/snowborder2.jpg",
-        Nome: "Someone",
-        Cargo: "Monitor de pista",
-        flagsImg: ["./images/PS.png", "./images/EUA2.png","./images/PS.png"]
-    },
-    {
-        Image: "./images/snowborder2.jpg",
-        Nome: "Someone",
-        Cargo: "Monitor de pista",
-        flagsImg: ["./images/PS.png", "./images/EUA2.png","./images/PS.png"]
-    },
+    
+    
+   
 //    
 
 
