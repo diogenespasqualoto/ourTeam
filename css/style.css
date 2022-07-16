@@ -95,7 +95,7 @@ img {
     height: 250px;
     border-radius: 50%;
     overflow: hidden;
-    border: 10px solid rgba(2, 35, 143, 0.329);
+    border: 10px solid rgba(221, 221, 221, 0.378);
     backdrop-filter: blur(100px);
 
 }

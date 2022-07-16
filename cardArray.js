@@ -11,14 +11,13 @@ const cardArray = [{
         Cargo: "Monitor de pista",
         flagsImg: ["./images/PS.png", "./images/EUA2.png","./images/PS.png"]
     },
-    
-    
-   
-//    
-
-
+    {
+        Image: "./images/snowborder3.jpg",
+        Nome: "Someone",
+        Cargo: "Monitor de pista",
+        flagsImg: ["./images/PS.png", "./images/EUA2.png","./images/PS.png"]
+    },
 ];
-
 // Funcão para criar os cards
 function listCard() {
     let list = document.getElementById("container-list")
