@@ -106,7 +106,7 @@ img {
     left: 0;
     width: 100%;
     height: 100%;
-    object-fit:cover;
+    object-fit: cover;
 }
 
 .container .card .content .contentBx h3 {
@@ -129,7 +129,7 @@ img {
 
 .flags {
     display: flex;
-    justify-content:space-evenly;
+    justify-content: space-evenly;
 }
 
 span img {
@@ -162,7 +162,13 @@ footer {
 
 
 
-@media (max-width: 600px){
+@media (max-width: 600px) {
+
+    body {
+        background-image: url('../images/mountainSnowMobile.jpg');
+
+    }
+
     .container .card {
         position: relative;
         width: 100%;
